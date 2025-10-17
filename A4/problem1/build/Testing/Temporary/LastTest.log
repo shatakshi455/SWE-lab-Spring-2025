@@ -1,0 +1,23 @@
+Start testing: Feb 07 14:21 IST
+----------------------------------------------------------
+1/1 Testing: HelloWorldTest
+1/1 Test: HelloWorldTest
+Command: "/home/user/Desktop/assgn5/problem1/build/HelloWorldTest"
+Directory: /home/user/Desktop/assgn5/problem1/build
+"HelloWorldTest" start time: Feb 07 14:21 IST
+Output:
+----------------------------------------------------------
+Hello World from hello_world.cpp
+Hi world
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"HelloWorldTest" end time: Feb 07 14:21 IST
+"HelloWorldTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 07 14:21 IST
